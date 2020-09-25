@@ -247,12 +247,9 @@ body {
 }
 
 
-@media (min-width:767px){
-  .fingerup {
-    display: none;
-  }
 
-}
+
+
 
 
 
@@ -416,6 +413,8 @@ body {
   .modusfoottextparag {
     text-align: center;
     
+    ;
+    
   }
 }
 @media (max-width: 767px){
@@ -430,6 +429,23 @@ body {
     
   }
 }
+
+@media (min-width:767px){
+  .fingerup {
+    display: none;
+  }
+}
+
+@media (max-width: 575px){
+  .icon-bar {
+    display: inline-block !important;
+    left: auto;
+    right: auto; 
+    text-align: center;
+  }
+}
+*/
+
 
 
 .boxtxt {
@@ -744,6 +760,7 @@ border-radius:0px 0px 0px 0px ;
   .modusfoottext{
     line-height: 1.3em;
     height: auto;
+    color: white;
   }
           
 .img-icons{
