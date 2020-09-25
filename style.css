@@ -1,3 +1,4 @@
+/*Style CSS*/
 
 
 body {
@@ -213,7 +214,7 @@ body {
 @media (max-width: 991px) {
   .textinside2{
   padding-top: 2px !important;
-  font-size: 10px !important;
+  font-size: 7px !important;
   transform: translate(-50%, -40%) !important;
 }
 }
@@ -392,16 +393,12 @@ body {
   }
 }
 
-@media (max-width: 767px){
-  .logo3 {
-    padding-left: 117px;
-  }
-}
+
 
 @media (max-width: 767px){
   .modus2 {
     text-align: center;
-    padding-right: 100px;
+    
   }
 }
 
@@ -699,7 +696,7 @@ background-color: rgb(241, 235, 235);
     border-radius: 5px;
     padding: 30px 20px 30px 20px;
 }
- 
+ /*
 audio:hover, audio:focus, audio:active
 {
 -webkit-box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);
@@ -723,13 +720,9 @@ box-shadow: 2px 2px 4px 0px #006773;
 -moz-border-radius:7px 7px 7px 7px ;
 -webkit-border-radius:7px 7px 7px 7px ;
 border-radius:0px 0px 0px 0px ;
-margin-left: 90px;
-}
-.clients>h3{
-  padding-left: 180px ;
-  
-}
 
+}
+*/
 .logo3 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: white;
