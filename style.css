@@ -37,11 +37,17 @@ body {
     
 }
 
-.collapse{
-        Margin-left: 160px;
+@media (min-width: 1199px) {
+.collapse {
+        margin-left: 160px;
 
 
+  }
 }
+
+
+
+
 .nav-link{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
